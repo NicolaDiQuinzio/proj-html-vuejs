@@ -1,8 +1,8 @@
 <template>
-  
-<header>
+
+
 <AppHeader/>
-</header>
+
 
 <main>
 <AppMain/>
